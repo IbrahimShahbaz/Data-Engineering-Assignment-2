@@ -1,0 +1,23 @@
+[2021-05-28 19:54:42,038] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Covid19_UAE_DAG.Extract_Covid_Data 2021-05-27T19:52:27.334684+00:00 [queued]>
+[2021-05-28 19:54:42,058] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Covid19_UAE_DAG.Extract_Covid_Data 2021-05-27T19:52:27.334684+00:00 [queued]>
+[2021-05-28 19:54:42,059] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-28 19:54:42,059] {taskinstance.py:1069} INFO - Starting attempt 1 of 2
+[2021-05-28 19:54:42,060] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-28 19:54:42,080] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): Extract_Covid_Data> on 2021-05-27T19:52:27.334684+00:00
+[2021-05-28 19:54:42,085] {standard_task_runner.py:52} INFO - Started process 84 to run task
+[2021-05-28 19:54:42,092] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Covid19_UAE_DAG', 'Extract_Covid_Data', '2021-05-27T19:52:27.334684+00:00', '--job-id', '19', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/uae_covid19_dag.py', '--cfg-path', '/tmp/tmpnhlwajrg', '--error-file', '/tmp/tmp5cwh5365']
+[2021-05-28 19:54:42,094] {standard_task_runner.py:77} INFO - Job 19: Subtask Extract_Covid_Data
+[2021-05-28 19:54:42,176] {logging_mixin.py:104} INFO - Running <TaskInstance: Covid19_UAE_DAG.Extract_Covid_Data 2021-05-27T19:52:27.334684+00:00 [running]> on host 897404cfb482
+[2021-05-28 19:54:42,260] {taskinstance.py:1283} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=admin
+AIRFLOW_CTX_DAG_ID=Covid19_UAE_DAG
+AIRFLOW_CTX_TASK_ID=Extract_Covid_Data
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-27T19:52:27.334684+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-27T19:52:27.334684+00:00
+[2021-05-28 19:57:16,973] {logging_mixin.py:104} INFO - 05-28-2021 is not available!
+[2021-05-28 19:57:18,377] {python.py:118} INFO - Done. Returned value was: None
+[2021-05-28 19:57:18,403] {taskinstance.py:1192} INFO - Marking task as SUCCESS. dag_id=Covid19_UAE_DAG, task_id=Extract_Covid_Data, execution_date=20210527T195227, start_date=20210528T195442, end_date=20210528T195718
+[2021-05-28 19:57:18,457] {taskinstance.py:1246} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-05-28 19:57:18,502] {local_task_job.py:146} INFO - Task exited with return code 0

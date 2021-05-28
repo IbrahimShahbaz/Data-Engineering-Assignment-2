@@ -1,0 +1,127 @@
+[2021-05-28 19:51:25,639] {scheduler_job.py:182} INFO - Started process (PID=52) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:51:25,659] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:51:25,671] {logging_mixin.py:104} INFO - [2021-05-28 19:51:25,670] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:51:26,137] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:51:26,235] {logging_mixin.py:104} INFO - [2021-05-28 19:51:26,234] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:51:26,306] {logging_mixin.py:104} INFO - [2021-05-28 19:51:26,306] {dag.py:1843} INFO - Creating ORM DAG for Covid19_UAE_DAG
+[2021-05-28 19:51:26,331] {logging_mixin.py:104} INFO - [2021-05-28 19:51:26,331] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-27 19:51:26.330858+00:00
+[2021-05-28 19:51:26,604] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.981 seconds
+[2021-05-28 19:51:56,857] {scheduler_job.py:182} INFO - Started process (PID=79) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:51:56,861] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:51:56,864] {logging_mixin.py:104} INFO - [2021-05-28 19:51:56,864] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:51:56,964] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:51:57,038] {logging_mixin.py:104} INFO - [2021-05-28 19:51:57,038] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:51:57,087] {logging_mixin.py:104} INFO - [2021-05-28 19:51:57,087] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-27 19:51:57.086004+00:00
+[2021-05-28 19:51:57,115] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.267 seconds
+[2021-05-28 19:52:27,186] {scheduler_job.py:182} INFO - Started process (PID=106) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:52:27,189] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:52:27,190] {logging_mixin.py:104} INFO - [2021-05-28 19:52:27,190] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:52:27,239] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:52:27,285] {logging_mixin.py:104} INFO - [2021-05-28 19:52:27,285] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:52:27,335] {logging_mixin.py:104} INFO - [2021-05-28 19:52:27,335] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-27 19:52:27.334684+00:00
+[2021-05-28 19:52:27,376] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.195 seconds
+[2021-05-28 19:52:58,406] {scheduler_job.py:182} INFO - Started process (PID=133) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:52:58,411] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:52:58,416] {logging_mixin.py:104} INFO - [2021-05-28 19:52:58,416] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:52:58,632] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:52:58,707] {logging_mixin.py:104} INFO - [2021-05-28 19:52:58,707] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:52:58,769] {logging_mixin.py:104} INFO - [2021-05-28 19:52:58,769] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:52:59,003] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.605 seconds
+[2021-05-28 19:53:29,571] {scheduler_job.py:182} INFO - Started process (PID=159) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:53:29,574] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:53:29,577] {logging_mixin.py:104} INFO - [2021-05-28 19:53:29,577] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:53:29,671] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:53:29,770] {logging_mixin.py:104} INFO - [2021-05-28 19:53:29,770] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:53:29,812] {logging_mixin.py:104} INFO - [2021-05-28 19:53:29,812] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:53:29,850] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.286 seconds
+[2021-05-28 19:54:00,031] {scheduler_job.py:182} INFO - Started process (PID=186) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:54:00,037] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:54:00,039] {logging_mixin.py:104} INFO - [2021-05-28 19:54:00,039] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:54:00,086] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:54:00,122] {logging_mixin.py:104} INFO - [2021-05-28 19:54:00,121] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:54:00,145] {logging_mixin.py:104} INFO - [2021-05-28 19:54:00,144] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:54:00,159] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.146 seconds
+[2021-05-28 19:54:30,335] {scheduler_job.py:182} INFO - Started process (PID=213) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:54:30,338] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:54:30,340] {logging_mixin.py:104} INFO - [2021-05-28 19:54:30,339] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:54:30,420] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:54:30,469] {logging_mixin.py:104} INFO - [2021-05-28 19:54:30,469] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:54:30,496] {logging_mixin.py:104} INFO - [2021-05-28 19:54:30,495] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:54:30,514] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.185 seconds
+[2021-05-28 19:55:00,912] {scheduler_job.py:182} INFO - Started process (PID=240) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:55:00,916] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:55:00,919] {logging_mixin.py:104} INFO - [2021-05-28 19:55:00,918] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:55:00,983] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:55:01,019] {logging_mixin.py:104} INFO - [2021-05-28 19:55:01,018] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:55:01,041] {logging_mixin.py:104} INFO - [2021-05-28 19:55:01,041] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:55:01,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.152 seconds
+[2021-05-28 19:55:31,283] {scheduler_job.py:182} INFO - Started process (PID=267) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:55:31,286] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:55:31,288] {logging_mixin.py:104} INFO - [2021-05-28 19:55:31,288] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:55:31,365] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:55:31,400] {logging_mixin.py:104} INFO - [2021-05-28 19:55:31,399] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:55:31,428] {logging_mixin.py:104} INFO - [2021-05-28 19:55:31,427] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:55:31,484] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.212 seconds
+[2021-05-28 19:56:01,640] {scheduler_job.py:182} INFO - Started process (PID=294) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:56:01,642] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:56:01,644] {logging_mixin.py:104} INFO - [2021-05-28 19:56:01,644] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:56:01,719] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:56:01,753] {logging_mixin.py:104} INFO - [2021-05-28 19:56:01,752] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:56:01,777] {logging_mixin.py:104} INFO - [2021-05-28 19:56:01,777] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:56:01,792] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.158 seconds
+[2021-05-28 19:56:32,427] {scheduler_job.py:182} INFO - Started process (PID=321) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:56:32,432] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:56:32,435] {logging_mixin.py:104} INFO - [2021-05-28 19:56:32,434] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:56:32,498] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:56:32,539] {logging_mixin.py:104} INFO - [2021-05-28 19:56:32,539] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:56:32,571] {logging_mixin.py:104} INFO - [2021-05-28 19:56:32,570] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:56:32,587] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.170 seconds
+[2021-05-28 19:57:02,984] {scheduler_job.py:182} INFO - Started process (PID=348) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:57:02,986] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:57:02,989] {logging_mixin.py:104} INFO - [2021-05-28 19:57:02,988] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:57:03,046] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:57:03,079] {logging_mixin.py:104} INFO - [2021-05-28 19:57:03,079] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:57:03,110] {logging_mixin.py:104} INFO - [2021-05-28 19:57:03,110] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:57:03,174] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.195 seconds
+[2021-05-28 19:57:33,294] {scheduler_job.py:182} INFO - Started process (PID=375) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:57:33,299] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:57:33,302] {logging_mixin.py:104} INFO - [2021-05-28 19:57:33,301] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:57:33,456] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:57:33,495] {logging_mixin.py:104} INFO - [2021-05-28 19:57:33,495] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:57:33,537] {logging_mixin.py:104} INFO - [2021-05-28 19:57:33,537] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:57:33,582] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.301 seconds
+[2021-05-28 19:58:03,950] {scheduler_job.py:182} INFO - Started process (PID=402) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:58:03,953] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:58:03,956] {logging_mixin.py:104} INFO - [2021-05-28 19:58:03,955] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:58:04,053] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:58:04,105] {logging_mixin.py:104} INFO - [2021-05-28 19:58:04,104] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:58:04,146] {logging_mixin.py:104} INFO - [2021-05-28 19:58:04,145] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:58:04,187] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.246 seconds
+[2021-05-28 19:58:34,765] {scheduler_job.py:182} INFO - Started process (PID=429) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:58:34,778] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:58:34,780] {logging_mixin.py:104} INFO - [2021-05-28 19:58:34,779] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:58:34,847] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:58:34,882] {logging_mixin.py:104} INFO - [2021-05-28 19:58:34,882] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:58:34,911] {logging_mixin.py:104} INFO - [2021-05-28 19:58:34,911] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:58:34,927] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.171 seconds
+[2021-05-28 19:59:05,890] {scheduler_job.py:182} INFO - Started process (PID=456) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:59:05,893] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:59:05,894] {logging_mixin.py:104} INFO - [2021-05-28 19:59:05,894] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:59:05,942] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:59:05,973] {logging_mixin.py:104} INFO - [2021-05-28 19:59:05,972] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:59:05,998] {logging_mixin.py:104} INFO - [2021-05-28 19:59:05,998] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:59:06,013] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.127 seconds
+[2021-05-28 19:59:36,141] {scheduler_job.py:182} INFO - Started process (PID=483) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:59:36,145] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 19:59:36,149] {logging_mixin.py:104} INFO - [2021-05-28 19:59:36,148] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:59:36,252] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 19:59:36,279] {logging_mixin.py:104} INFO - [2021-05-28 19:59:36,279] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 19:59:36,296] {logging_mixin.py:104} INFO - [2021-05-28 19:59:36,296] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 19:59:36,307] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.177 seconds
+[2021-05-28 20:00:06,549] {scheduler_job.py:182} INFO - Started process (PID=510) to work on /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 20:00:06,553] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/uae_covid19_dag.py for tasks to queue
+[2021-05-28 20:00:06,561] {logging_mixin.py:104} INFO - [2021-05-28 20:00:06,561] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 20:00:06,628] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Covid19_UAE_DAG']) retrieved from /opt/airflow/dags/uae_covid19_dag.py
+[2021-05-28 20:00:06,692] {logging_mixin.py:104} INFO - [2021-05-28 20:00:06,691] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-28 20:00:06,731] {logging_mixin.py:104} INFO - [2021-05-28 20:00:06,730] {dag.py:2280} INFO - Setting next_dagrun for Covid19_UAE_DAG to 2021-05-28 19:52:27.334684+00:00
+[2021-05-28 20:00:06,752] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/uae_covid19_dag.py took 0.212 seconds

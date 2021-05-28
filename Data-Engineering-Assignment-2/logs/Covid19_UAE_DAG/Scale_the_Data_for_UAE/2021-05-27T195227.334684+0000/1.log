@@ -1,0 +1,22 @@
+[2021-05-28 19:57:19,785] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Covid19_UAE_DAG.Scale_the_Data_for_UAE 2021-05-27T19:52:27.334684+00:00 [queued]>
+[2021-05-28 19:57:19,802] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: Covid19_UAE_DAG.Scale_the_Data_for_UAE 2021-05-27T19:52:27.334684+00:00 [queued]>
+[2021-05-28 19:57:19,803] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-28 19:57:19,803] {taskinstance.py:1069} INFO - Starting attempt 1 of 2
+[2021-05-28 19:57:19,804] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-28 19:57:19,824] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): Scale_the_Data_for_UAE> on 2021-05-27T19:52:27.334684+00:00
+[2021-05-28 19:57:19,828] {standard_task_runner.py:52} INFO - Started process 86 to run task
+[2021-05-28 19:57:19,836] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Covid19_UAE_DAG', 'Scale_the_Data_for_UAE', '2021-05-27T19:52:27.334684+00:00', '--job-id', '20', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/uae_covid19_dag.py', '--cfg-path', '/tmp/tmpu1cpia8h', '--error-file', '/tmp/tmp2sctyz2_']
+[2021-05-28 19:57:19,837] {standard_task_runner.py:77} INFO - Job 20: Subtask Scale_the_Data_for_UAE
+[2021-05-28 19:57:19,886] {logging_mixin.py:104} INFO - Running <TaskInstance: Covid19_UAE_DAG.Scale_the_Data_for_UAE 2021-05-27T19:52:27.334684+00:00 [running]> on host 897404cfb482
+[2021-05-28 19:57:19,934] {taskinstance.py:1283} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=admin
+AIRFLOW_CTX_DAG_ID=Covid19_UAE_DAG
+AIRFLOW_CTX_TASK_ID=Scale_the_Data_for_UAE
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-27T19:52:27.334684+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-27T19:52:27.334684+00:00
+[2021-05-28 19:57:21,471] {python.py:118} INFO - Done. Returned value was: None
+[2021-05-28 19:57:21,483] {taskinstance.py:1192} INFO - Marking task as SUCCESS. dag_id=Covid19_UAE_DAG, task_id=Scale_the_Data_for_UAE, execution_date=20210527T195227, start_date=20210528T195719, end_date=20210528T195721
+[2021-05-28 19:57:21,533] {taskinstance.py:1246} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-05-28 19:57:21,577] {local_task_job.py:146} INFO - Task exited with return code 0
